@@ -22,7 +22,9 @@ SEE allows to write sandboxed tests both for quick prototyping and for running o
 Installation
 ------------
 
-SEE is available as Python package on the Python Package Index (PyPI).
+SEE is available as `python package`_ on the Python Package Index (PyPI).
+
+.. _python package: https://pypi.python.org/pypi/python-see
 
 It's user's responsibility to install and setup the hypervisors intended to be controlled with SEE.
 
